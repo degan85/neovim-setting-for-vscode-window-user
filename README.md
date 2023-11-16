@@ -4,11 +4,13 @@ NeoVim setting for windows
 
 ## Description
 
-[]: # FILEPATH: ~\AppData\Local\nvim
-[]: # This file contains the configuration settings for the Neovim editor, specifically for use with the VSCode extension.
+- This file contains the configuration settings for the Neovim editor, specifically for use with the VSCode extension.
 This project contains a set of NeoVim settings specifically tailored for Windows users. These settings aim to enhance productivity and user experience by customizing keybindings, plugins, and UI elements.
 
 ## Installation
+
+### file path
+- `~\AppData\Local\nvim`
 
 ### plug.vim
 
